@@ -70,6 +70,7 @@ int main() {
 	// шаблонная функция
 	cout << mean(4, 7) << "\n"; //5.5
 	cout << mean(2.2, 2.4) << "\n"; //2.3
+	cout << mean(3, 22) << "\n";
 
 
 	return 0;
